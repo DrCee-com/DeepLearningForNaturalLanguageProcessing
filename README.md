@@ -1,5 +1,3 @@
-# Deep Learning For Natural Language Processing
-
 # Workshop: Deep Learning for Natural Language Processing
 
 ## Description:
